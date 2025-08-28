@@ -6,7 +6,7 @@ Set the Priority of any program or application by simply typing the name.
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Set-Priority/total)
 
 # #1 Usage
-1. Download [Set Priority]().
+1. Download [Set Priority](https://github.com/QuakedK/Set-Priority/releases/download/SetPriority/Set-Priority-V1.0.bat).
 2. Right-click & run it as admin!
 
 # #2 Exe Name Example
