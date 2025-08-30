@@ -15,5 +15,5 @@ Discord.exe
 Spotify.exe
 ```
 # #3 Revert
-1. Simply click Selct undo.
+1. Simply click/select undo.
 2. Then retype the exe name and it will delete the reg key!
